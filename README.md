@@ -29,7 +29,7 @@ I'm a creative problem solver, independent with a collaborative attitude.
 ![Jest](https://img.shields.io/badge/Jest-%23C21325)
 ![Cypress](https://img.shields.io/badge/Cypress-%2320C582)
 
-📫 How to reach me: [irisrosa.se](https://irisrosa.se)
+📫 How to reach me: [irisrosa.se](https://www.irisrosa.se/)
 
 <!--
 **irisrosa/irisrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
