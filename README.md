@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi! 😊
+
+I'm a full-stack javascript developer with many years of experience working in different industries, from art & design to fintech.
+
+I have a dynamic and curious mindset and love to experiment with new tools that can make work more practical and more fun.
+
+My main expertise is javascript/typescript, using React and Node on a daily basis, but my interest gravitates towards frontend development where I can see the users interacting with my work.
+ 
+I'm a creative problem solver, independent with a collaborative attitude.
 
 <!--
 **irisrosa/irisrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
