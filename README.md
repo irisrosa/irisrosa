@@ -15,7 +15,7 @@ I'm a creative problem solver, independent with a collaborative attitude.
 ![NextJS](https://img.shields.io/badge/Next.js-%23000000)
 ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399)
 ![Redux](https://img.shields.io/badge/Redux-%23764ABC)
-![styled components](https://img.shields.io/badge/Styled%20Components-%23DB7093)
+![styled components](https://img.shields.io/badge/styled%20components-%23DB7093)
 ![RxJS](https://img.shields.io/badge/RxJS-%23F7A541)
 ![HTML](https://img.shields.io/badge/HTML-%23E44D26)
 ![CSS](https://img.shields.io/badge/CSS-%23264DE4)
